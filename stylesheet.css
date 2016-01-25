@@ -1,0 +1,53 @@
+div {
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+}
+p {
+	text-align:center;
+	font-family: Verdana;
+	color:#FFFFFF;
+	font-size:4em;
+}
+.sum {
+	background-image: url("image/summer.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin: auto;
+}
+.aut {
+	background-image: url("image/autumn.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	} 
+.win {
+	background-image: url("image/winter.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.spr {
+	background-image: url("image/spring.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+#picture {
+	width: 1200px;
+	height:600px;
+	
+}
+.class1 {
+	background-color:#59AC59;
+}
+.class2 {
+	background-color:#FF4D4D;
+}
+.class3 {
+	background-color:#6C91FF;
+}
+.class4 {
+	background-color:#FFACFF;
+}
+#change {
+	 background-repeat: no-repeat;
+}
